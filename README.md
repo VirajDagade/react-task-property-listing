@@ -23,3 +23,9 @@ This project was created as part of **React Task 1 Assignment**.
 npm install
 npm run dev
 ```
+
+## 📸 Preview
+
+![App Screenshot 1](./public/screenshots/screenshot-1.png)
+![App Screenshot 2](./public/screenshots/screenshot-2.png)
+![App Screenshot 3](./public/screenshots/screenshot-3.png)
