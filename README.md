@@ -26,6 +26,8 @@ npm run dev
 
 ## 📸 Preview
 
-![App Screenshot 1](./public/screenshots/screenshot-1.png)
-![App Screenshot 2](./public/screenshots/screenshot-2.png)
-![App Screenshot 3](./public/screenshots/screenshot-3.png)
+![App Screenshot 1](./public/screenshots/Screenshot1.png)
+![App Screenshot 2](./public/screenshots/Screenshot2.png)
+![App Screenshot 3](./public/screenshots/Screenshot3.png)
+![App Screenshot 3](./public/screenshots/Screenshot4.png)
+![App Screenshot 3](./public/screenshots/Screenshot5.png)
